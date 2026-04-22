@@ -171,8 +171,7 @@ Project ini menggunakan lisensi [MIT](LICENSE).
 ## 👤 Author
 
 **Nama Kamu**
-- GitHub: [@username](https://github.com/username)
+- GitHub: [https://github.com/khairurrahiminmiska/CRUD-Data-Client.git]
 
 ---
 
-> Dibuat dengan ❤️ menggunakan Laravel
